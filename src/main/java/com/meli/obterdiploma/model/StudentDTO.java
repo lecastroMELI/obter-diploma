@@ -20,6 +20,7 @@ public class StudentDTO {
     String message;
     Double averageScore;
 
+    //ESTA VALIDAÇÃO ESTÁ QUEBRANDO A REQUISIÇÃO. DESCOBRIR O MODO CORRETO DE USAR
     @NotBlank
     List<@Valid SubjectDTO> subjects;
 }
