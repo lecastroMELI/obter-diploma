@@ -1,0 +1,6 @@
+com/meli/obterdiploma/model/StudentDTO.class
+com/meli/obterdiploma/service/IObterDiplomaService.class
+com/meli/obterdiploma/ObterDiplomaApplication.class
+com/meli/obterdiploma/service/ObterDiplomaService.class
+com/meli/obterdiploma/model/SubjectDTO.class
+com/meli/obterdiploma/controller/ObterDiplomaController.class
